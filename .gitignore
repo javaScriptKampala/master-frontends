@@ -1,0 +1,4 @@
+node_modules
+apps/store/node_modules
+apps/landing/node_modules
+apps/dashboard/node_modules
